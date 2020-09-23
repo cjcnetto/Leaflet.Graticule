@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00d32150-6bcf-425a-bdac-6bae1f7c5429" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example/indexPerfomanceIssue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leaflet.Graticule.js" beforeDir="false" afterPath="$PROJECT_DIR$/Leaflet.Graticule.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hvAA8OYBI5poVxy0FWL4SNmLd5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\github\Leaflet.Graticule\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.indexPerfomanceIssue.html">
+    <configuration name="indexPerfomanceIssue.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Leaflet.Graticule/example/indexPerfomanceIssue.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Leaflet.Graticule/example/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="lambert.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Leaflet.Graticule/example/lambert.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="mollweide.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Leaflet.Graticule/example/mollweide.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.indexPerfomanceIssue.html" />
+        <item itemvalue="JavaScript Debug.mollweide.html" />
+        <item itemvalue="JavaScript Debug.lambert.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00d32150-6bcf-425a-bdac-6bae1f7c5429" name="Default Changelist" comment="" />
+      <created>1600881046115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600881046115</updated>
+      <workItem from="1600881047235" duration="2310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="74" key="RollbackChangesDialog" timestamp="1600882335905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="339" y="74" key="RollbackChangesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1600882335905" />
+  </component>
+</project>

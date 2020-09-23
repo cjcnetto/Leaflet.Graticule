@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<title>Leaflet Lat/Lon Graticule Demo</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<link href="https://unpkg.com/leaflet@1.0.0/dist/leaflet.css" rel="stylesheet" type="text/css" />
+<script src="https://unpkg.com/leaflet@1.0.0/dist/leaflet-src.js"></script>
+
+<script src="../Leaflet.Graticule.js"></script>
+
+	<style>
+		html { height: 100%; }
+		body { height: 100%; margin: 0; padding: 0;}
+		.map { width: 800px; height: 600px; }
+	</style>
+</head>
+<body>
+	<div id="map" class="map"></div>
+
+	<div>
+	</div>
+
+	<script>
+		var map = new L.Map('map',{
+			center: [51.505, -0.09],
+			zoom: 18
+		});
+
+		L.tileLayer('http://{s}.tile.stamen.com/terrain/{z}/{x}/{y}.png').addTo(map);
+
+		const zoomInterval = [];
+		let interval = 60;
+		for(let i = 0; i <= 20; i++){
+			zoomInterval.push({start: i, end: i, interval})
+			interval = interval/2;
+		}
+
+		L.latlngGraticule({
+			showLabel: true,
+			color: '#222',
+			zoomInterval
+		}).addTo(map);
+
+// 		console.log(map.options.crs);
+
+	</script>
+
+</body>
+</html>
